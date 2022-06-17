@@ -1,1 +1,1 @@
-print("power")
+print("Power")
